@@ -24,10 +24,6 @@
 
 ---
 
-![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kryptonnnnnn&show_icons=true&theme=radical)
-
-
-### Languages and Tools:
 ### 🛠️ Languages and Tools:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
@@ -39,4 +35,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
 </p>
+
+![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kryptonnnnnn&show_icons=true&theme=radical)
+
+
 
