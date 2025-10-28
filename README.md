@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,12,18&height=200&section=header&text=Nikhil%20Singh&fontSize=70&fontAlignY=40&animation=blinking&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,12,18&height=200&section=header&text=Nikhil%20Kaushal&fontSize=70&fontAlignY=40&animation=blinking&fontColor=ffffff" width="100%" />
 </div>
 
 <div align="center">
   
-  ### 👨‍💻 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🎮 Gaming Aficionado | ✈️ Travel Explorer
+  ### 👨‍💻 Full-Stack Developer | 🤖 ML Enthusiast | 🎮 Gaming Aficionado | ✈️ Travel Explorer
   
   <p align="center">
     <img src="https://img.shields.io/badge/CS_Graduate-FF6B6B?style=for-the-badge&logo=google-scholar&logoColor=white" />
@@ -117,10 +117,9 @@ me.say_hi()
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.avenster.me/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankur-kaushal-11035b259/)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Avenstar#7977)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankur.kaushal.21cse@bmu.edu.in)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-singh-b955a0284/)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/niick8467)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ns339722@gmail.com)
 
 </div>
 
