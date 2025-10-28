@@ -1,35 +1,150 @@
-# Krypton
-<h1 align="center">Hi 👋, I'm Nikhil Singh</h1>
-<h3 align="center">A passionate Full Stack Developer & Data Science Enthusiast</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Ankur%20Kaushal&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=CS%20Graduate%20|%20Developer%20|%20Gamer&descAlignY=51&descSize=20" width="100%" />
+</div>
 
-- 📧 How to reach me: **ns339722@gmail.com**
-- 👯 Open for collaboration on innovative projects
-- 📚 Always learning, always growing
+<div align="center">
+  
+  ### 👨‍💻 Full-Stack Developer | 🤖 ML Enthusiast | 🎮 Gaming Aficionado
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/CS_Graduate-FF6B6B?style=for-the-badge&logo=google-scholar&logoColor=white" />
+    <img src="https://img.shields.io/badge/Open_To_Collaborate-4ECDC4?style=for-the-badge&logo=handshake&logoColor=white" />
+    <img src="https://img.shields.io/badge/PC_Gaming-95E1D3?style=for-the-badge&logo=steam&logoColor=white" />
+  </p>
 
----
-
-### 🛠️ Languages and Tools:
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
-</p>
+</div>
 
 ---
 
-### 📫 Connect with me:
-[![Linkedin Badge](https://img.shields.io/badge/-Nikhil%20Singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikhil-singh-b955a0284/)](https://www.linkedin.com/in/nikhil-singh-b955a0284/)
+### 🚀 About Me
+
+```python
+class AnkurKaushal:
+    def __init__(self):
+        self.username = "Avenster"
+        self.role = "Computer Science Graduate"
+        self.location = "India"
+        self.interests = ["Web Development", "Machine Learning", "Mobile Apps", "Gaming"]
+        self.currently_learning = ["Advanced ML", "Cloud Architecture", "System Design"]
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
+
+me = AnkurKaushal()
+me.say_hi()
+```
 
 ---
 
-![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kryptonnnnnn&show_icons=true&theme=radical)
+### 💼 What I'm Up To
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kryptonnnnnn&label=Profile%20views&color=0e75b6&style=flat" alt="kryptonnnnnn" /> </p>
+- 🔭 Building innovative projects that solve real-world problems
+- 🌱 Diving deep into **Machine Learning** and **Cloud Technologies**
+- 👯 Looking to collaborate on **Open Source** and **Impactful Projects**
+- 💬 Ask me about **Python, React, Flutter, ML, or Gaming Builds**
+- ⚡ Fun fact: I debug with `console.log()` and I'm not ashamed!
 
+---
 
+### 🛠️ Tech Arsenal
 
+<div align="center">
+
+#### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+#### 🎨 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+#### 🔧 Backend & Database
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### 🤖 AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+#### 🛠️ Tools & Technologies
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=avenster&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avenster&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avenster&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avenster&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=avenster&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="GitHub Trophies" />
+</div>
+
+---
+
+### 📫 Let's Connect!
+
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.avenster.me/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankur-kaushal-11035b259/)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Avenstar#7977)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankur.kaushal.21cse@bmu.edu.in)
+
+</div>
+
+---
+
+### 💭 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
+
+---
+
+### 📈 Profile Views
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=avenster&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%" />
+  
+  ### ⭐ Don't forget to star my repositories if you find them interesting!
+  
+  **Made with ❤️ and lots of ☕**
+</div>
