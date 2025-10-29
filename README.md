@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  ### 👨‍💻 Full-Stack Developer | 🤖 ML Enthusiast | 🎮 Gaming Aficionado | ✈️ Travel Explorer
+  ### 👨‍💻 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🎮 Gaming Aficionado | ✈️ Travel Explorer
   
   <p align="center">
     <img src="https://img.shields.io/badge/CS_Graduate-FF6B6B?style=for-the-badge&logo=google-scholar&logoColor=white" />
