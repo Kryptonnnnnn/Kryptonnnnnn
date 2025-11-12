@@ -9,7 +9,7 @@
   <p align="center">
     <img src="https://img.shields.io/badge/CS_Graduate-FF6B6B?style=for-the-badge&logo=google-scholar&logoColor=white" />
     <img src="https://img.shields.io/badge/Open_To_Collaborate-4ECDC4?style=for-the-badge&logo=handshake&logoColor=white" />
-    <img src="https://img.shields.io/badge/PC_Gaming-95E1D3?style=for-the-badge&logo=steam&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gamer-95E1D3?style=for-the-badge&logo=steam&logoColor=white" />
     <img src="https://img.shields.io/badge/Traveler-FFA07A?style=for-the-badge&logo=airplane&logoColor=white" />
   </p>
 
