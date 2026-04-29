@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Nikhil%20Singh&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Software%20Developer%20%C2%B7%20Builder%20%C2%B7%20Creator&descAlignY=58&descSize=16" width="100%" />
-</div>
+<div align="center"> <img src="[https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,12,18&height=200&section=header&text=N%20S&fontSize=70&fontAlignY=40&animation=blinking&fontColor=ffffff](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,12,18&height=200&section=header&text=Nikhil%20Singh&fontSize=70&fontAlignY=40&animation=blinking&fontColor=ffffff)" width="100%" /> </div> <div align="center">
 
 <div align="center">
   
